@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Udemy\\UdemyMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\udemy\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\udemy\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\udemy\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\dtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\dtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\udemy\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\udemy\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\udemy\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\udemy\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\udemy\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F25090-9C76-4628-8D50-360B1877564D}|Solution Items{11F25090-9C76-4628-8D50-360B1877564D}|C:\\Udemy\\UdemyMicroservices\\Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11F25090-9C76-4628-8D50-360B1877564D}|Solution Items{11F25090-9C76-4628-8D50-360B1877564D}|solutionrelative:Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\udemy\\udemymicroservices\\shared\\freecourse.shared\\contollerbase\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\contollerbase\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\udemy\\udemymicroservices\\shared\\freecourse.shared\\freecourse.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\freecourse.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\udemy\\udemymicroservices\\shared\\freecourse.shared\\dtos\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\dtos\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\udemy\\udemymicroservices\\shared\\freecourse.shared\\dtos\\nocontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\dtos\\nocontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CategoryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:07:25.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseCreateDto.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CourseCreateDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CourseCreateDto.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CourseCreateDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CourseCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:07:23.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Category.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Category.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:07:10.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Course.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Course.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:06:51.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CourseService.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CourseService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwE4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:03:48.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:02:57.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:01:56.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:00:55.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ports.txt",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Ports.txt",
+              "RelativeDocumentMoniker": "Ports.txt",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Ports.txt",
+              "RelativeToolTip": "Ports.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-07T13:06:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomBaseController.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\ContollerBase\\CustomBaseController.cs",
+              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\ContollerBase\\CustomBaseController.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\ContollerBase\\CustomBaseController.cs",
+              "RelativeToolTip": "Shared\\FreeCourse.Shared\\ContollerBase\\CustomBaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T21:33:33.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FreeCourse.Shared",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+              "RelativeToolTip": "Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T21:34:34.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Dtos\\Response.cs",
+              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\Dtos\\Response.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Dtos\\Response.cs",
+              "RelativeToolTip": "Shared\\FreeCourse.Shared\\Dtos\\Response.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:01:57.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NoContent.cs",
+              "DocumentMoniker": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
+              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
+              "ToolTip": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
+              "RelativeToolTip": "Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:15:27.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
