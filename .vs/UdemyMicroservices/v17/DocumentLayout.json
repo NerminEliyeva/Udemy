@@ -7,112 +7,24 @@
       "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\services\\identityresourceownerpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\services\\identityresourceownerpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\tempkey.jwk||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\tempkey.jwk||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\freecourse.services.catalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\freecourse.services.catalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F25090-9C76-4628-8D50-360B1877564D}|Solution Items{11F25090-9C76-4628-8D50-360B1877564D}|C:\\Nermin_Eliyeva_git\\Udemy\\Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{11F25090-9C76-4628-8D50-360B1877564D}|Solution Items{11F25090-9C76-4628-8D50-360B1877564D}|solutionrelative:Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{97502FF7-A7C3-4615-8861-E75A4051682A}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\photostock\\freecourse.services.photostock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97502FF7-A7C3-4615-8861-E75A4051682A}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|solutionrelative:services\\photostock\\freecourse.services.photostock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\migrations\\20240309112543_init_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\migrations\\20240309112543_init_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\nermin_eliyeva_git\\udemy\\identityserver\\freecourse.identityserver\\freecourse.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8C944D66-E307-4782-A623-A79C43A7AC35}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\freecourse.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\dtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\dtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\catalog\\freecourse.services.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5F93F2-7EE0-4C5A-A0E0-1355AA96CFF3}|services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\nermin_eliyeva_git\\udemy\\shared\\freecourse.shared\\contollerbase\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\contollerbase\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\nermin_eliyeva_git\\udemy\\shared\\freecourse.shared\\freecourse.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\freecourse.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\nermin_eliyeva_git\\udemy\\shared\\freecourse.shared\\dtos\\nocontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297F6EBA-CF48-4954-A68B-CEB15B0949AD}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\dtos\\nocontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97502FF7-A7C3-4615-8861-E75A4051682A}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|c:\\nermin_eliyeva_git\\udemy\\services\\photostock\\freecourse.services.photostock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97502FF7-A7C3-4615-8861-E75A4051682A}|Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj|solutionrelative:services\\photostock\\freecourse.services.photostock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,75 +42,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
+              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-10T10:35:47.365Z"
+              "WhenOpened": "2024-03-11T19:38:30.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IdentityResourceOwnerPasswordValidator.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T10:10:07.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Startup.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Startup.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Startup.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Startup.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAEwDkAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:23:43.458Z"
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.Development.json",
+              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.Development.json",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T19:38:20.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T23:00:55.128Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\appsettings.json",
+              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\appsettings.json",
+              "RelativeToolTip": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T19:37:30.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-10T08:33:48.048Z"
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Program.cs",
+              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Program.cs",
+              "RelativeToolTip": "Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:29:39.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAmwCwAAAAWAAAA",
+              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
+              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:23:42.332Z"
+              "WhenOpened": "2024-03-11T19:29:31.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -208,263 +113,10 @@
               "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
               "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
               "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAUwE8AAAAOAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T09:14:21.998Z",
+              "WhenOpened": "2024-03-11T19:28:58.755Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "tempkey.jwk",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\tempkey.jwk",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\tempkey.jwk",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\tempkey.jwk",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\tempkey.jwk",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-10T10:20:39.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-10T08:17:20.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CoursesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T08:56:49.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:52:32.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CourseService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CourseService.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CourseService.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CourseService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAuwCkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T23:03:48.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwA4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T12:26:34.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FreeCourse.Services.Catalog.csproj",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
-              "RelativeDocumentMoniker": "services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
-              "RelativeToolTip": "services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-10T08:56:37.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SignupDto.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T12:27:20.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Ports.txt",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Ports.txt",
-              "RelativeDocumentMoniker": "Ports.txt",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Ports.txt",
-              "RelativeToolTip": "Ports.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-07T13:06:06.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:23:44.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FreeCourse.IdentityServer.csproj",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-09T11:23:44.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20240309112543_init_mig.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Migrations\\20240309112543_init_mig.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Migrations\\20240309112543_init_mig.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\IdentityServer\\FreeCourse.IdentityServer\\Migrations\\20240309112543_init_mig.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Migrations\\20240309112543_init_mig.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwBUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:25:43.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CategoryCreateDto.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CategoryCreateDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CategoryCreateDto.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CategoryCreateDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CategoryCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T23:07:25.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CourseCreateDto.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CourseCreateDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CourseCreateDto.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CourseCreateDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Dtos\\CourseCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T23:07:23.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Category.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Category.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T23:07:10.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Course.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Course.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Models\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T23:06:51.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CategoryService.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Services\\CategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T23:02:57.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GeneralMapping.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Mapping\\GeneralMapping.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Mapping\\GeneralMapping.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Services\\Catalog\\FreeCourse.Services.Catalog\\Mapping\\GeneralMapping.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Mapping\\GeneralMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T23:01:56.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CustomBaseController.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\ContollerBase\\CustomBaseController.cs",
-              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\ContollerBase\\CustomBaseController.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\ContollerBase\\CustomBaseController.cs",
-              "RelativeToolTip": "Shared\\FreeCourse.Shared\\ContollerBase\\CustomBaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T21:33:33.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "FreeCourse.Shared.csproj",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
-              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
-              "RelativeToolTip": "Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-08T21:34:34.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "NoContent.cs",
-              "DocumentMoniker": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
-              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
-              "ToolTip": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
-              "RelativeToolTip": "Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:15:27.61Z"
             }
           ]
         }
