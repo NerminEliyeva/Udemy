@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+      "projectUniqueName": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
       "projectName": "FreeCourse.Shared",
-      "projectPath": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+      "projectPath": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Udemy\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\obj\\",
+      "outputPath": "C:\\Nermin_Eliyeva_git\\Udemy\\Shared\\FreeCourse.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

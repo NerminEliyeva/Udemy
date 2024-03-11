@@ -7,3 +7,13 @@ C:\Udemy\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\Fre
 C:\Udemy\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
 C:\Udemy\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
 C:\Udemy\UdemyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.deps.json
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfo.cs
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.sourcelink.json
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Nermin_Eliyeva_git\Udemy\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb

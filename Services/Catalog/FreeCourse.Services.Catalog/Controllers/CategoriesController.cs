@@ -1,11 +1,13 @@
 ﻿using FreeCourse.Services.Catalog.Dtos;
 using FreeCourse.Services.Catalog.Services;
 using FreeCourse.Shared.ContollerBase;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FreeCourse.Services.Catalog.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : CustomBaseController
