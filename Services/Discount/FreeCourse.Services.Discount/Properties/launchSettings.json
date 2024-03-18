@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:25973",
+      "applicationUrl": "http://localhost:20893",
       "sslPort": 0
     }
   },
@@ -14,17 +14,17 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5233",
+      "applicationUrl": "http://localhost:5014",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "FreeCourses.Services.Basket": {
+    "FreeCourses.Services.Discount": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5013",
+      "applicationUrl": "http://localhost:5014",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

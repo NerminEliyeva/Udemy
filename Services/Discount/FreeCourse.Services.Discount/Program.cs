@@ -1,47 +1,31 @@
+using FreeCourse.Services.Discount.Services;
 using FreeCourse.Shared.Services;
-using FreeCourses.Services.Basket.Services;
-using FreeCourses.Services.Basket.Settings;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Options;
-using StackExchange.Redis;
-using System.IdentityModel.Tokens.Jwt;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+// Add services to the container.
 
 var requireAuthorizePolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
 //JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Remove("sub");
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
     options.Authority = builder.Configuration["IdentityServerURL"];
-    options.Audience = "resource_basket";
+    options.Audience = "resource_discount";
     options.RequireHttpsMetadata = false;
 });
-
-// Add services to the container.
-
-builder.Services.Configure<RedisSettings>(builder.Configuration.GetSection("RedisSettings"));
-
-builder.Services.AddSingleton<RedisService>(sp =>
-{
-    var redisSettings = sp.GetRequiredService<IOptions<RedisSettings>>().Value;
-    var redis = new RedisService(redisSettings.Host, redisSettings.Port);
-    redis.Connect();
-    return redis;
-});
-
-builder.Services.AddHttpContextAccessor();
-builder.Services.AddScoped<IBasketService, BasketService>();
-builder.Services.AddScoped<ISharedIdentityService, SharedIdentityService>();
-
 builder.Services.AddControllers(opt =>
 {
     opt.Filters.Add(new AuthorizeFilter(requireAuthorizePolicy));
 });
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<IDiscountService, DiscountService>();
+builder.Services.AddScoped<ISharedIdentityService, SharedIdentityService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -54,7 +38,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseAuthentication();
-
 app.UseAuthorization();
 
 app.MapControllers();

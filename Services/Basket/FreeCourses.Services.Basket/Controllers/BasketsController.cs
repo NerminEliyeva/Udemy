@@ -1,4 +1,5 @@
 ﻿using FreeCourse.Shared.ContollerBase;
+using FreeCourse.Shared.Dtos;
 using FreeCourse.Shared.Services;
 using FreeCourses.Services.Basket.Dtos;
 using FreeCourses.Services.Basket.Services;
@@ -23,13 +24,14 @@ namespace FreeCourses.Services.Basket.Controllers
         public async Task<IActionResult> GetBasket()
         {
             var claims = User.Claims;
-            var basket = await _basketService.GetBasket(_sharedIdentityService.GetUserId);
-            return CreateActionResultInstance(basket);
+            var response = await _basketService.GetBasket(_sharedIdentityService.GetUserId);
+            return CreateActionResultInstance(response);
         }
 
         [HttpPost]
         public async Task<IActionResult> SaveOrUpdate(BasketDto basketDto)
         {
+            basketDto.UserId = _sharedIdentityService.GetUserId;
             var response = await _basketService.SaveOrUpdate(basketDto);
             return CreateActionResultInstance(response);
         }

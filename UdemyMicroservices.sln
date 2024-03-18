@@ -30,6 +30,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{38697D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourses.Services.Basket", "Services\Basket\FreeCourses.Services.Basket\FreeCourses.Services.Basket.csproj", "{D6435080-7A04-4805-97FC-136FD6D45CE2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{204E8EAE-9211-4F80-B922-E297DFD231B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.Discount", "Services\Discount\FreeCourse.Services.Discount\FreeCourse.Services.Discount.csproj", "{DCF9151E-0E2B-4F7F-8F71-05A9DBA7FC5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +60,10 @@ Global
 		{D6435080-7A04-4805-97FC-136FD6D45CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6435080-7A04-4805-97FC-136FD6D45CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6435080-7A04-4805-97FC-136FD6D45CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF9151E-0E2B-4F7F-8F71-05A9DBA7FC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF9151E-0E2B-4F7F-8F71-05A9DBA7FC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF9151E-0E2B-4F7F-8F71-05A9DBA7FC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF9151E-0E2B-4F7F-8F71-05A9DBA7FC5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +77,8 @@ Global
 		{97502FF7-A7C3-4615-8861-E75A4051682A} = {E402D72A-A469-4FF7-9E27-8ADC9E30AC23}
 		{38697D71-A2B9-46A0-AF3A-947277CEA3E7} = {A82AA52A-AAF1-4E90-BDD7-5ED8FE4AA7CD}
 		{D6435080-7A04-4805-97FC-136FD6D45CE2} = {38697D71-A2B9-46A0-AF3A-947277CEA3E7}
+		{204E8EAE-9211-4F80-B922-E297DFD231B4} = {A82AA52A-AAF1-4E90-BDD7-5ED8FE4AA7CD}
+		{DCF9151E-0E2B-4F7F-8F71-05A9DBA7FC5F} = {204E8EAE-9211-4F80-B922-E297DFD231B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {699AE767-77F0-449F-8476-D31EE72207DD}
